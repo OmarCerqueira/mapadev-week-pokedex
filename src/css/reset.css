@@ -1,0 +1,11 @@
+
+/* Resetar todos '*' */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;   /* Facilita os elementos se encaixarem */
+}
+
+ul {
+    list-style-type: none;    /* Tirar todos os tipos de marcadores das listas */
+}
